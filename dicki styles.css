@@ -1,0 +1,22 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    background-image: url('https://1.bp.blogspot.com/-5fLedp5ony8/XqH392hbGBI/AAAAAAAA9-I/bF4W1GFMhwEmRY4APw0inEnx4VbmdYfHQCLcBGAsYHQ/s1600/mazedonien_albanien_flaggen.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; /* Sorgt dafür, dass das Bild den ganzen Hintergrund abdeckt */
+    color: #333;
+}
+
+header {
+    background-color: rgba(0, 123, 255, 0.8); /* Leicht transparent, um den Hintergrund durchscheinen zu lassen */
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
